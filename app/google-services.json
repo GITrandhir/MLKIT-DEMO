@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "356298026877",
+    "project_id": "mlkit-demo-309a1",
+    "storage_bucket": "mlkit-demo-309a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356298026877:android:1453dde3ae4698eec1a614",
+        "android_client_info": {
+          "package_name": "com.randhir.mlkitdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356298026877-r5tvl9rhc8e224p2ad4v40b1ll2bc86q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz_9CbFrpk_L7gLQDd0noRgqx0V-gbkrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356298026877-r5tvl9rhc8e224p2ad4v40b1ll2bc86q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
