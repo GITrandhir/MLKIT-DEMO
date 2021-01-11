@@ -35,6 +35,19 @@ dependencies {
     // Face features
     implementation 'com.google.mlkit:face-detection:16.0.0'
 
+    // Ml Vision
+
+    implementation 'com.google.firebase:firebase-ml-vision:24.1.0'
+
+    //Dialog Box
+    implementation 'com.github.d-max:spots-dialog:1.1@aar'
+
+    //Camera Kit
+    implementation 'com.wonderkiln:camerakit:0.13.1'
+
+    // Firebase Analytics
+    implementation 'com.google.firebase:firebase-analytics:18.0.0'
+
     // Text features
     implementation 'com.google.android.gms:play-services-mlkit-text-recognition:16.0.0'
 
